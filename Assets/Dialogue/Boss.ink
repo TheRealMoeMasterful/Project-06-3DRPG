@@ -28,13 +28,13 @@ Afraid not, kid. Now, your time is my money, so you'd best get out there and kil
 ->work
 
 ==about==
-There's a gun outside; grab it, and shoot those mannequins down, or we're both cooked.
+There's some ammunition for your gun outside; grab it, and shoot those mannequins down, or we're both cooked.
 -> END
 
 ==work==
-You do now, kid. Listen, there's a gun outside; grab it and shoot those mannequins down.
+You do now, kid. Listen, there's some ammunition for your gun outside; grab it and shoot those mannequins down.
 -> END
 
 ==or==
-Or I'll kill you again, you big dumb idiot! Now, get out there, grab that gun, and shoot them all down!
+Or I'll kill you again, you big dumb idiot! Now, get out there, grab that ammo, and shoot them all down!
 -> END
