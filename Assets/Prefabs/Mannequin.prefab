@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 4036671065910484088}
   - component: {fileID: 9168229890934117996}
   m_Layer: 6
-  m_Name: CheeseEnemy
+  m_Name: Mannequin
   m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,7 +45,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4170524715052567547}
-  m_Mesh: {fileID: -3702037217650275473, guid: 35f2f525f31e4b949b47243ada7d5cd6, type: 3}
+  m_Mesh: {fileID: -3702037217650275473, guid: f30333e4daa63e9469ddf58315364253, type: 3}
 --- !u!23 &531053481907393
 MeshRenderer:
   m_ObjectHideFlags: 0
